@@ -14,7 +14,7 @@
 
 ---
 
-### 🤖 &nbsp;Tecnologias em estudo
+### 🤖 &nbsp;Tecnologias que tenho conhecimento/já tive contato
 
 <p align="left">
   <img title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
